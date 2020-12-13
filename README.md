@@ -1,6 +1,6 @@
 
 # About Me 🤚
-I'm a Junior at Brown University <img alt="Brown University" width="14px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in Applied Mathematics - Computer Science! 
+I'm a Junior at Brown University <img alt="Brown University" width="14px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in Applied Mathematics - Computer Science! 🌎
 
 ---
 
@@ -20,7 +20,7 @@ I'm a Junior at Brown University <img alt="Brown University" width="14px" src="h
 * LinkedIn: https://www.linkedin.com/in/jackson-webster/
 
 ---
-### Languages & Tools
+### 🐙Languages & Tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/ "Python")
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />](https://www.java.com/en/ "Java")
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />](https://www.tensorflow.org/ "Tensorflow")
