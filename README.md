@@ -8,12 +8,16 @@ I'm a Junior at Brown University <img alt="Brown University" width="14px" src="h
 * Undergraduate TA for APMA 1650: Statistical Inference I: Holding recitation sections and office hours for students, and assisting with grading
 * Competing in Brown Mathematical Contest in Modeling in January: http://www.dam.brown.edu/siam/bmcm.html
 
+---
+
 ### 🐬 Currently learning:
 * CS1470 Deep Learning 
 * CS0320 Software Engineering 
 * APMA 0360 Applied Partial Differential Equations 
 * APMA 1200 Probabilistic Models
 
+---
+Final Project for Applied PDEs: Evaluation of the Black Scholes PDE and its Application to Put and Call Options: https://docs.google.com/document/d/14BfSrINlI82nOjZFnqER5UvsfYQyo5cyAIVS7WyVA-o/edit?usp=sharing
 ---
 - 📫 How to reach me: ...
 * Email: jackson_webster@brown.edu
