@@ -5,7 +5,7 @@ I'm a Junior at Brown University <img alt="Brown University" width="14px" src="h
 ---
 
 ### 💥 Currently working on:
-* Undergraduate TA for APMA 1650: Statistical Inference I: Holding recitation sections and office hours for students, and assisting with grading
+* Undergraduate TA for APMA 1650: Statistical Inference I: Holding recitation sections and office hours for students, and assisting with grading course assignments and exams
 * Competing in Brown Mathematical Contest in Modeling in January: http://www.dam.brown.edu/siam/bmcm.html
 
 ---
@@ -17,7 +17,7 @@ I'm a Junior at Brown University <img alt="Brown University" width="14px" src="h
 * APMA 1200 Probabilistic Models
 
 ---
-Final Project for Applied PDEs: Evaluation of the Black Scholes PDE and its Application to Put and Call Options: https://docs.google.com/document/d/14BfSrINlI82nOjZFnqER5UvsfYQyo5cyAIVS7WyVA-o/edit?usp=sharing
+* Final Project for Applied PDEs: Evaluation of the Black Scholes PDE and its Application to Put and Call Options: https://docs.google.com/document/d/14BfSrINlI82nOjZFnqER5UvsfYQyo5cyAIVS7WyVA-o/edit?usp=sharing
 ---
 - 📫 How to reach me: ...
 * Email: jackson_webster@brown.edu
