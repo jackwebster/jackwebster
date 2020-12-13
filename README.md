@@ -31,7 +31,7 @@ I'm a Junior at Brown University <img alt="Brown University" width="14px" src="h
 </br></br>
 
 ---
-![Jack's github stats](https://github-readme-stats-git-master.jackwebster.vercel.app/api?username=jackwebster&hide_border=true&hide=&show_icons=true&include_all_commits=true) 
+
 <!--
 **jackwebster/jackwebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
