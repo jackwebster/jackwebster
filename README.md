@@ -1,5 +1,5 @@
 
-# About Me <img alt="Brown University" width="50px" src="https://github.com/bensilv/bensilv/blob/master/icons/memoji-wave.png?raw=true" />
+# About Me 
 I'm a Junior at Brown University <img alt="Brown University" width="14px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in Applied Mathematics - Computer Science! 
 
 ---
