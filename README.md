@@ -31,7 +31,6 @@ I'm a Junior at Brown University <img alt="Brown University" width="14px" src="h
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/ "JavaScript")
 [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://www.latex-project.org/ "LaTeX")
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/ "Git")
-[<img align="left" alt="Gradescope" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*3y0JWV7cQoQdJgVlvriAOw.png" />](https://www.gradescope.com/ "Gradescope")
 </br></br>
 
 ---
