@@ -1,14 +1,14 @@
 
-# About Me 
+# About Me 🤚
 I'm a Junior at Brown University <img alt="Brown University" width="14px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in Applied Mathematics - Computer Science! 
 
 ---
 
-### Currently working on:
+### 💥 Currently working on:
 * Undergraduate TA for APMA 1650: Statistical Inference I: Holding recitation sections and office hours for students, and assisting with grading
 * Competing in Brown Mathematical Contest in Modeling in January: http://www.dam.brown.edu/siam/bmcm.html
 
-### Currently learning:
+### 🐬 Currently learning:
 * CS1470 Deep Learning 
 * CS0320 Software Engineering 
 * APMA 0360 Applied Partial Differential Equations 
@@ -28,6 +28,7 @@ I'm a Junior at Brown University <img alt="Brown University" width="14px" src="h
 [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://www.latex-project.org/ "LaTeX")
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/ "Git")
 [<img align="left" alt="Gradescope" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*3y0JWV7cQoQdJgVlvriAOw.png" />](https://www.gradescope.com/ "Gradescope")
+</br></br>
 
 ---
 ![Jack's github stats](https://github-readme-stats-git-master.jackwebster.vercel.app/api?username=jackwebster&hide_border=true&hide=&show_icons=true&include_all_commits=true) 
