@@ -1,20 +1,20 @@
 
 # About Me 🤚
-I'm a Junior at Brown University <img alt="Brown University" width="14px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in Applied Mathematics - Computer Science!  
+I'm a Senior at Brown University <img alt="Brown University" width="14px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Brown_University_coat_of_arms.svg/1200px-Brown_University_coat_of_arms.svg.png" /> pursuing an ScB in Applied Mathematics - Computer Science!  
 
 ---
 
-### 💥 Currently working on:
+### 💥 Past Experience:
 * Undergraduate TA for APMA 1650: Statistical Inference I: Holding recitation sections and office hours for students, and assisting with grading course assignments and exams
-* Competing in Brown Mathematical Contest in Modeling in January: http://www.dam.brown.edu/siam/bmcm.html
+* Competed in Brown Mathematical Contest in Modeling in January: http://www.dam.brown.edu/siam/bmcm.html
 
 ---
 
 ### 🐬 Currently learning:
-* CS1470 Deep Learning 
-* CS0320 Software Engineering 
-* APMA 0360 Applied Partial Differential Equations 
-* APMA 1200 Probabilistic Models
+* CS1410 Artificial Intelligence 
+* APMA 1690 Computational Probability and Statistics
+* APMA 1740 Recent Applications of Statistics
+* HIST 1957 European Intellectual History
 
 ---
 * Final Project for Applied PDEs: Evaluation of the Black Scholes PDE and its Application to Put and Call Options: https://docs.google.com/document/d/14BfSrINlI82nOjZFnqER5UvsfYQyo5cyAIVS7WyVA-o/edit?usp=sharing
